@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">M09_InterfaceIFood</string>
+    <string name="iv_logo_text_cont">Logo do iFood.</string>
+    <string name="btn_retirar_text">Para Retirar</string>
+    <string name="btn_entrega_text">Entrega Grátis</string>
+    <string name="iv_mercado_text_cont">Imagem de um carrinho de supermercado.</string>
+    <string name="iv_pizza_text_cont">Imagem de uma fatia de pizza.</string>
+    <string name="iv_vale_text_cont">Imagem de um vale refeição.</string>
 </resources>
